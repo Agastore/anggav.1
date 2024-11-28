@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rezadev05/push-kontak.git"
+    "url": "git+https://github.com/Agastore/anggav.1.git"
   },
   "keywords": [
     "Bot",
@@ -32,7 +32,7 @@
     "util": "^0.12.4"
   },
   "bugs": {
-    "url": "https://github.com/rezadev05/push-kontak/issues"
+    "url": "https://github.com/Agastore/anggav.1/issues"
   },
-  "homepage": "https://github.com/rezadev05/push-kontak#readme"
+  "homepage": "https://github.com/Agastore/anggav.1#readme"
 }
